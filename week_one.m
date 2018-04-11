@@ -1,1 +1,1 @@
-# week 1# machine learning
+# week 1# machine learningx = 0:pi/100:piy = sin(x)plot(x,y)
